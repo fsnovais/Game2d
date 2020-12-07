@@ -1,0 +1,3814 @@
+fileFormatVersion: 2
+guid: c56e6fc4472672a47ba7e407dafc7fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6779410648344980505
+    second: metroidshooting_0
+  - first:
+      213: -2358704146605167631
+    second: metroidshooting_1
+  - first:
+      213: -5489149146390270075
+    second: metroidshooting_2
+  - first:
+      213: 2206408774236759206
+    second: metroidshooting_3
+  - first:
+      213: -4384726464809727415
+    second: metroidshooting_4
+  - first:
+      213: -1188273307781912737
+    second: metroidshooting_5
+  - first:
+      213: 3853537216471149933
+    second: metroidshooting_6
+  - first:
+      213: 4839363431926437719
+    second: metroidshooting_7
+  - first:
+      213: 8932229415540207958
+    second: metroidshooting_8
+  - first:
+      213: -377150821069917204
+    second: metroidshooting_9
+  - first:
+      213: -6514527779496444203
+    second: metroidshooting_10
+  - first:
+      213: 7221243918390109006
+    second: metroidshooting_11
+  - first:
+      213: 1121852115397537646
+    second: metroidshooting_12
+  - first:
+      213: -8265108021232574465
+    second: metroidshooting_13
+  - first:
+      213: -889047648296973449
+    second: metroidshooting_14
+  - first:
+      213: -2427952991863051972
+    second: metroidshooting_15
+  - first:
+      213: -8032322441688814888
+    second: metroidshooting_16
+  - first:
+      213: -4337575531790056761
+    second: metroidshooting_17
+  - first:
+      213: -5944106558942243449
+    second: metroidshooting_18
+  - first:
+      213: 8472761198589046216
+    second: metroidshooting_19
+  - first:
+      213: 7091483799879680960
+    second: metroidshooting_20
+  - first:
+      213: -177793951736391105
+    second: metroidshooting_21
+  - first:
+      213: -4782899291032259993
+    second: metroidshooting_22
+  - first:
+      213: -7079419367234118556
+    second: metroidshooting_23
+  - first:
+      213: 4491578254264812080
+    second: metroidshooting_24
+  - first:
+      213: 5788510814283215780
+    second: metroidshooting_25
+  - first:
+      213: 5633412413576641802
+    second: metroidshooting_26
+  - first:
+      213: -2118311789672739324
+    second: metroidshooting_27
+  - first:
+      213: -8613631025467883060
+    second: metroidshooting_28
+  - first:
+      213: -8434934460459052724
+    second: metroidshooting_29
+  - first:
+      213: 2508727487917025313
+    second: metroidshooting_30
+  - first:
+      213: 7157529853092467168
+    second: metroidshooting_31
+  - first:
+      213: 3434032108820878189
+    second: metroidshooting_32
+  - first:
+      213: -8401319408381570566
+    second: metroidshooting_33
+  - first:
+      213: -5342975458680491504
+    second: metroidshooting_34
+  - first:
+      213: 8689461454427740083
+    second: metroidshooting_35
+  - first:
+      213: 6082515611512562856
+    second: metroidshooting_36
+  - first:
+      213: -2106185962571228442
+    second: metroidshooting_37
+  - first:
+      213: -2449120779797195447
+    second: metroidshooting_38
+  - first:
+      213: 1367741369767905203
+    second: metroidshooting_39
+  - first:
+      213: -7938406341556537969
+    second: metroidshooting_40
+  - first:
+      213: -4252004854523058760
+    second: metroidshooting_41
+  - first:
+      213: 6236764383778896533
+    second: metroidshooting_42
+  - first:
+      213: 3645905142599730044
+    second: metroidshooting_43
+  - first:
+      213: -6701193961815372095
+    second: metroidshooting_44
+  - first:
+      213: -7538552923912248833
+    second: metroidshooting_45
+  - first:
+      213: -5971439208109964032
+    second: metroidshooting_46
+  - first:
+      213: 2237871575251337039
+    second: metroidshooting_47
+  - first:
+      213: -6528942442035843899
+    second: metroidshooting_48
+  - first:
+      213: 8190298382713504358
+    second: metroidshooting_49
+  - first:
+      213: -7597140362537928012
+    second: metroidshooting_50
+  - first:
+      213: 8479808166696302409
+    second: metroidshooting_51
+  - first:
+      213: 3389318358193258802
+    second: metroidshooting_52
+  - first:
+      213: 5214913192157618359
+    second: metroidshooting_53
+  - first:
+      213: -4430736087605670686
+    second: metroidshooting_54
+  - first:
+      213: 2261709245561811261
+    second: metroidshooting_55
+  - first:
+      213: -2201660774380609140
+    second: metroidshooting_56
+  - first:
+      213: 3482738992069794492
+    second: metroidshooting_57
+  - first:
+      213: -4572504654915688664
+    second: metroidshooting_58
+  - first:
+      213: 1554299521678983955
+    second: metroidshooting_59
+  - first:
+      213: -140486999610610938
+    second: metroidshooting_60
+  - first:
+      213: -4768647547807136434
+    second: metroidshooting_61
+  - first:
+      213: -7745225409021645490
+    second: metroidshooting_62
+  - first:
+      213: 7367552849488120676
+    second: metroidshooting_63
+  - first:
+      213: -2333379806122479493
+    second: metroidshooting_64
+  - first:
+      213: -8985064104383259165
+    second: metroidshooting_65
+  - first:
+      213: -1051725094354207531
+    second: metroidshooting_66
+  - first:
+      213: 1039128168733200406
+    second: metroidshooting_67
+  - first:
+      213: 8864226173694284102
+    second: metroidshooting_68
+  - first:
+      213: -4976461978775998740
+    second: metroidshooting_69
+  - first:
+      213: -109277601924180175
+    second: metroidshooting_70
+  - first:
+      213: -6840280866565140611
+    second: metroidshooting_71
+  - first:
+      213: -3810031409827748996
+    second: metroidshooting_72
+  - first:
+      213: 5204578827318511270
+    second: metroidshooting_73
+  - first:
+      213: -6680323454420008990
+    second: metroidshooting_74
+  - first:
+      213: -4595240449712381300
+    second: metroidshooting_75
+  - first:
+      213: 6286756698703471989
+    second: metroidshooting_76
+  - first:
+      213: 1112923756305737038
+    second: metroidshooting_77
+  - first:
+      213: 2880736127324889630
+    second: metroidshooting_78
+  - first:
+      213: -7388005316350405218
+    second: metroidshooting_79
+  - first:
+      213: 3300370236949493480
+    second: metroidshooting_80
+  - first:
+      213: -7306071285311634428
+    second: metroidshooting_81
+  - first:
+      213: 2151841268329698018
+    second: metroidshooting_82
+  - first:
+      213: -8777359175108479858
+    second: metroidshooting_83
+  - first:
+      213: 7965678102312215877
+    second: metroidshooting_84
+  - first:
+      213: 6713994411291316093
+    second: metroidshooting_85
+  - first:
+      213: 6732694131972029834
+    second: metroidshooting_86
+  - first:
+      213: -5757867092568545879
+    second: metroidshooting_87
+  - first:
+      213: -7282655475641568548
+    second: metroidshooting_88
+  - first:
+      213: 6645639920478133943
+    second: metroidshooting_89
+  - first:
+      213: 7495239253420766798
+    second: metroidshooting_90
+  - first:
+      213: 6368326533774707203
+    second: metroidshooting_91
+  - first:
+      213: 2305819274714188091
+    second: metroidshooting_92
+  - first:
+      213: 300630387262811697
+    second: metroidshooting_93
+  - first:
+      213: 887024471320797075
+    second: metroidshooting_94
+  - first:
+      213: -5913918546072562903
+    second: metroidshooting_95
+  - first:
+      213: 7903816257624546245
+    second: metroidshooting_96
+  - first:
+      213: -7402697029805701844
+    second: metroidshooting_97
+  - first:
+      213: -7685318361607043605
+    second: metroidshooting_98
+  - first:
+      213: -7929102055868466308
+    second: metroidshooting_99
+  - first:
+      213: -8180778363619509134
+    second: metroidshooting_100
+  - first:
+      213: -1713076059069798377
+    second: metroidshooting_101
+  - first:
+      213: -6079399698813287370
+    second: metroidshooting_102
+  - first:
+      213: -8002326662328370776
+    second: metroidshooting_103
+  - first:
+      213: 1540591189638079012
+    second: metroidshooting_104
+  - first:
+      213: -6912329185423739143
+    second: metroidshooting_105
+  - first:
+      213: -4679366953019436996
+    second: metroidshooting_106
+  - first:
+      213: -4881718666897482503
+    second: metroidshooting_107
+  - first:
+      213: -4565491030540067449
+    second: metroidshooting_108
+  - first:
+      213: -1172353331436630916
+    second: metroidshooting_109
+  - first:
+      213: 3266595760456602489
+    second: metroidshooting_110
+  - first:
+      213: 6669156057043746184
+    second: metroidshooting_111
+  - first:
+      213: 433748261920250627
+    second: metroidshooting_112
+  - first:
+      213: 581538897537244027
+    second: metroidshooting_113
+  - first:
+      213: -7650215643040940126
+    second: metroidshooting_114
+  - first:
+      213: -6631026117792846316
+    second: metroidshooting_115
+  - first:
+      213: 7489020781362316552
+    second: metroidshooting_116
+  - first:
+      213: -3065469696819063429
+    second: metroidshooting_117
+  - first:
+      213: -531421989170997904
+    second: metroidshooting_118
+  - first:
+      213: -6633501808935981032
+    second: metroidshooting_119
+  - first:
+      213: -164574094650985844
+    second: metroidshooting_120
+  - first:
+      213: 3941110029407783825
+    second: metroidshooting_121
+  - first:
+      213: -2466905032057703476
+    second: metroidshooting_122
+  - first:
+      213: -5015421924305298177
+    second: metroidshooting_123
+  - first:
+      213: 7702175858582963999
+    second: metroidshooting_124
+  - first:
+      213: 3103030075470670275
+    second: metroidshooting_125
+  - first:
+      213: -5701916958148810294
+    second: metroidshooting_126
+  - first:
+      213: 1936000805574184685
+    second: metroidshooting_127
+  - first:
+      213: 5427864333452773730
+    second: metroidshooting_128
+  - first:
+      213: 9021577038446425987
+    second: metroidshooting_129
+  - first:
+      213: -396790051118127521
+    second: metroidshooting_130
+  - first:
+      213: -7681737612010497304
+    second: metroidshooting_131
+  - first:
+      213: 5039112934424375495
+    second: metroidshooting_132
+  - first:
+      213: 7859143188375268522
+    second: metroidshooting_133
+  - first:
+      213: -7434079246958213908
+    second: metroidshooting_134
+  - first:
+      213: -2047200923540143760
+    second: metroidshooting_135
+  - first:
+      213: -3626886509507280807
+    second: metroidshooting_136
+  - first:
+      213: -4310794880551660083
+    second: metroidshooting_137
+  - first:
+      213: 6962166743242917788
+    second: metroidshooting_138
+  - first:
+      213: 2612176263824614048
+    second: metroidshooting_139
+  - first:
+      213: 7739214742806236135
+    second: metroidshooting_140
+  - first:
+      213: 7002977789724338459
+    second: metroidshooting_141
+  - first:
+      213: 8464988861402155327
+    second: metroidshooting_142
+  - first:
+      213: 363170496382487061
+    second: metroidshooting_143
+  - first:
+      213: -6081732021995412389
+    second: metroidshooting_144
+  - first:
+      213: -1177861247113605832
+    second: metroidshooting_145
+  - first:
+      213: 7499107280877730664
+    second: metroidshooting_146
+  - first:
+      213: 7691323611346779379
+    second: metroidshooting_147
+  - first:
+      213: 8745894353264354622
+    second: metroidshooting_148
+  - first:
+      213: -6081472775852535028
+    second: metroidshooting_149
+  - first:
+      213: 8483993277366717457
+    second: metroidshooting_150
+  - first:
+      213: -3064236344873220946
+    second: metroidshooting_151
+  - first:
+      213: -7781430746608937049
+    second: metroidshooting_152
+  - first:
+      213: -8172076427436641095
+    second: metroidshooting_153
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metroidshooting_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6a19d01e451e50800000000000000
+      internalID: 6779410648344980505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1153
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbab5b5313344fd0800000000000000
+      internalID: -2358704146605167631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe4422fef92d3b0800000000000000
+      internalID: -5489149146390270075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1154
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4efa1171dbe9e10800000000000000
+      internalID: 2206408774236759206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1153
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a03c3f2825623c0800000000000000
+      internalID: -4384726464809727415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1154
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a499e8b7628fe0800000000000000
+      internalID: -1188273307781912737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da2847ea38a7530800000000000000
+      internalID: 3853537216471149933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7579dfab66fd82340800000000000000
+      internalID: 4839363431926437719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b1951457a5fb70800000000000000
+      internalID: 8932229415540207958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37163935714caf0800000000000000
+      internalID: -377150821069917204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de33bfff7fb795a0800000000000000
+      internalID: -6514527779496444203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a7108513073460800000000000000
+      internalID: 7221243918390109006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6acc1e8e919f00800000000000000
+      internalID: 1121852115397537646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff533c8b007c4d80800000000000000
+      internalID: -8265108021232574465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1127
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bccdecfd779a3f0800000000000000
+      internalID: -889047648296973449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1127
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e7a42e9d2e4ed0800000000000000
+      internalID: -2427952991863051972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1127
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6dbddb45778090800000000000000
+      internalID: -8032322441688814888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1127
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c24a390906ddc3c0800000000000000
+      internalID: -4337575531790056761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7859d2fe39a428da0800000000000000
+      internalID: -5944106558942243449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdec946b6b459570800000000000000
+      internalID: 8472761198589046216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3044691f20a6260800000000000000
+      internalID: 7091483799879680960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1094
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1a87c759588df0800000000000000
+      internalID: -177793951736391105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1093
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fd898f6abf9db0800000000000000
+      internalID: -4782899291032259993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1094
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c5df70899d0cd90800000000000000
+      internalID: -7079419367234118556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1094
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c256ff9a455e30800000000000000
+      internalID: 4491578254264812080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1093
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3bbdfaaebe45050800000000000000
+      internalID: 5788510814283215780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1094
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df2883eb6ed2e40800000000000000
+      internalID: 5633412413576641802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1097
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec80d86ae3a92e0800000000000000
+      internalID: -2118311789672739324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc104b4283c367880800000000000000
+      internalID: -8613631025467883060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1097
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4113a46cc711fa80800000000000000
+      internalID: -8434934460459052724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286d83cb5ac0d220800000000000000
+      internalID: 2508727487917025313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e194daaa77a45360800000000000000
+      internalID: 7157529853092467168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63dd89320228af20800000000000000
+      internalID: 3434032108820878189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1097
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af152da9284886b80800000000000000
+      internalID: -8401319408381570566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1029
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01238bde020f9d5b0800000000000000
+      internalID: -5342975458680491504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1029
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b75d90772b279870800000000000000
+      internalID: 8689461454427740083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1037
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a469fcd8bf696450800000000000000
+      internalID: 6082515611512562856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1052
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea170ea60355c2e0800000000000000
+      internalID: -2106185962571228442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1034
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945192470a9f20ed0800000000000000
+      internalID: -2449120779797195447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1034
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b74f9977813bf210800000000000000
+      internalID: 1367741369767905203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1034
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8570d8ed7d15d190800000000000000
+      internalID: -7938406341556537969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1052
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5aae6ec18ddf4c0800000000000000
+      internalID: -4252004854523058760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1038
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59af2fac9207d8650800000000000000
+      internalID: 6236764383778896533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 990
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734d6d096bd89230800000000000000
+      internalID: 3645905142599730044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1033
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce800f98939003a0800000000000000
+      internalID: -6701193961815372095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 990
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16ab18e0ea16790800000000000000
+      internalID: -7538552923912248833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1033
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00504c2adaf212da0800000000000000
+      internalID: -5971439208109964032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1022
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fbcc747548e0f10800000000000000
+      internalID: 2237871575251337039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1024
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc6b77d0798465a0800000000000000
+      internalID: -6528942442035843899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1003
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662481a2cf8c9a170800000000000000
+      internalID: 8190298382713504358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1003
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf4267719819690800000000000000
+      internalID: -7597140362537928012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 987
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b36389945ea570800000000000000
+      internalID: 8479808166696302409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_52
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 987
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c1d2e617490f20800000000000000
+      internalID: 3389318358193258802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0ad012be71f5840800000000000000
+      internalID: 5214913192157618359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 945
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec82ccd00dd282c0800000000000000
+      internalID: -4430736087605670686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 971
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31bde66394336f10800000000000000
+      internalID: 2261709245561811261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 971
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e12bc0312271e0800000000000000
+      internalID: -2201660774380609140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 932
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad8b339ac255030800000000000000
+      internalID: 3482738992069794492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_58
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 920
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272ee51e333b80c0800000000000000
+      internalID: -4572504654915688664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 921
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134c301e2bf19510800000000000000
+      internalID: 1554299521678983955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 933
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b26a471d3ec0ef0800000000000000
+      internalID: -140486999610610938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 932
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450be5125c52ddb0800000000000000
+      internalID: -4768647547807136434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_62
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 918
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6fe5c68e638490800000000000000
+      internalID: -7745225409021645490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 914
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b08a9184ece3660800000000000000
+      internalID: 7367552849488120676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_64
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 914
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70fff9dd6b2e9fd0800000000000000
+      internalID: -2333379806122479493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 914
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5f1e4dc3ae4380800000000000000
+      internalID: -8985064104383259165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 917
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc37a559958761f0800000000000000
+      internalID: -1051725094354207531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 932
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d17d5099bb6e00800000000000000
+      internalID: 1039128168733200406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 904
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64194c38dbe040b70800000000000000
+      internalID: 8864226173694284102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 902
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea1dc523e00fab0800000000000000
+      internalID: -4976461978775998740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 871
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137176b9994cb7ef0800000000000000
+      internalID: -109277601924180175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 867
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcb701bc07211a0800000000000000
+      internalID: -6840280866565140611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 867
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e2228e9c002bc0800000000000000
+      internalID: -3810031409827748996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 867
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c6df4ed06a3840800000000000000
+      internalID: 5204578827318511270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_74
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 867
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb59a4639ba43a0800000000000000
+      internalID: -6680323454420008990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_75
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 871
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822369582d6a30c0800000000000000
+      internalID: -4595240449712381300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_76
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 867
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5752787a8eb0f3750800000000000000
+      internalID: 6286756698703471989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 821
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4562b48246e17f00800000000000000
+      internalID: 1112923756305737038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 817
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a5d8be3e6af720800000000000000
+      internalID: 2880736127324889630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 813
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959c30ee48887990800000000000000
+      internalID: -7388005316350405218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 811
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e675a09e354dcd20800000000000000
+      internalID: 3300370236949493480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 809
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404815f00ee9b9a90800000000000000
+      internalID: -7306071285311634428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_82
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 821
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e251db8b30ecdd10800000000000000
+      internalID: 2151841268329698018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 826
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b4ada55e803680800000000000000
+      internalID: -8777359175108479858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 823
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456d63b706cb8e60800000000000000
+      internalID: 7965678102312215877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_85
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 826
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0af44856ec2d50800000000000000
+      internalID: 6713994411291316093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 821
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dbc8544a55f6d50800000000000000
+      internalID: 6732694131972029834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 810
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a56a83c262f710b0800000000000000
+      internalID: -5757867092568545879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 807
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b4d81e6fceea90800000000000000
+      internalID: -7282655475641568548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_89
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 809
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be114d2c4e0a3c50800000000000000
+      internalID: 6645639920478133943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_90
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 810
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4675b6b360740860800000000000000
+      internalID: 7495239253420766798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 769
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a065bdd37d06850800000000000000
+      internalID: 6368326533774707203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 767
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398691e96aefff10800000000000000
+      internalID: 2305819274714188091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 760
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eec719ebd0c2400800000000000000
+      internalID: 300630387262811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 759
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f97289e085f4c00800000000000000
+      internalID: 887024471320797075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_95
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 759
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92310c66a6a8deda0800000000000000
+      internalID: -5913918546072562903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_96
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 752
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1ba5920fffad60800000000000000
+      internalID: 7903816257624546245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 752
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c258796c546544990800000000000000
+      internalID: -7402697029805701844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 721
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be500ae2ba3485590800000000000000
+      internalID: -7685318361607043605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf32cb0bb26f190800000000000000
+      internalID: -7929102055868466308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_100
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf1420c69087e80800000000000000
+      internalID: -8180778363619509134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_101
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7182be9866ee938e0800000000000000
+      internalID: -1713076059069798377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_102
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6340e981f22a1aba0800000000000000
+      internalID: -6079399698813287370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_103
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 710
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9b74b7c4602f090800000000000000
+      internalID: -8002326662328370776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 709
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422697a4687416510800000000000000
+      internalID: 1540591189638079012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_105
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 709
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b04c9a397210a0800000000000000
+      internalID: -6912329185423739143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30139f6c8c8f0fb0800000000000000
+      internalID: -4679366953019436996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 643
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc9e26acb6a04cb0800000000000000
+      internalID: -4881718666897482503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_108
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 641
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5d63c81e14a0c0800000000000000
+      internalID: -4565491030540067449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c49704bd6fabfe0800000000000000
+      internalID: -1172353331436630916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 611
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97310d67987455d20800000000000000
+      internalID: 3266595760456602489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_111
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 604
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dbcb3691a9d8c50800000000000000
+      internalID: 6669156057043746184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_112
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 517
+        width: 8
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b13b10fbbf40600800000000000000
+      internalID: 433748261920250627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 505
+        width: 8
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b97c2db8a021800800000000000000
+      internalID: 581538897537244027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_114
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 611
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af786db769f4d590800000000000000
+      internalID: -7650215643040940126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 604
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eae98e0ecd9f3a0800000000000000
+      internalID: -6631026117792846316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_116
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 517
+        width: 8
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058e9cd8b85ee760800000000000000
+      internalID: 7489020781362316552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_117
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 505
+        width: 8
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7510636d834575d0800000000000000
+      internalID: -3065469696819063429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 509
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07591a5348200a8f0800000000000000
+      internalID: -531421989170997904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_119
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 497
+        width: 16
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810b575204111f3a0800000000000000
+      internalID: -6633501808935981032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_120
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 509
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b81d9bb057bdf0800000000000000
+      internalID: -164574094650985844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_121
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 497
+        width: 16
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b849bd0b2a1b630800000000000000
+      internalID: 3941110029407783825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_122
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b39d81fac3cdd0800000000000000
+      internalID: -2466905032057703476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_123
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 461
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc931b2554a56ab0800000000000000
+      internalID: -5015421924305298177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_124
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 457
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174d60b220a3ea60800000000000000
+      internalID: 7702175858582963999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_125
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 457
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c968cfb96d201b20800000000000000
+      internalID: 3103030075470670275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_126
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 461
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a3c29cb8bed0b0800000000000000
+      internalID: -5701916958148810294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 461
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee8e1da97e0eda10800000000000000
+      internalID: 1936000805574184685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_128
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269077c6ad5a35b40800000000000000
+      internalID: 5427864333452773730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_129
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 411
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877b62a484133d70800000000000000
+      internalID: 9021577038446425987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_130
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 407
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e1b00d815e7af0800000000000000
+      internalID: -396790051118127521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_131
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 407
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea5b5a675cf46590800000000000000
+      internalID: -7681737612010497304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_132
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 411
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0f077f3868ee540800000000000000
+      internalID: 5039112934424375495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_133
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 411
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace90e1719411d60800000000000000
+      internalID: 7859143188375268522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_134
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c3f4ff48d4d890800000000000000
+      internalID: -7434079246958213908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_135
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 317
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c9884b91e693e0800000000000000
+      internalID: -2047200923540143760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_136
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 310
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95089288fe5baadc0800000000000000
+      internalID: -3626886509507280807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 301
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5552d45eafc24c0800000000000000
+      internalID: -4310794880551660083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_138
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 300
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97480e04c59e9060800000000000000
+      internalID: 6962166743242917788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_139
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a229f7d870504420800000000000000
+      internalID: 2612176263824614048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_140
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 217
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb8e61fdc6376b60800000000000000
+      internalID: 7739214742806236135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_141
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 210
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19287642339f2160800000000000000
+      internalID: 7002977789724338459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_142
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 201
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39838f158ea97570800000000000000
+      internalID: 8464988861402155327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_143
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac7cd64ad3a0500800000000000000
+      internalID: 363170496382487061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_144
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5468d9c2f8599ba0800000000000000
+      internalID: -6081732021995412389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_145
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 117
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d4813bf6567afe0800000000000000
+      internalID: -1177861247113605832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_146
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b3349075e221860800000000000000
+      internalID: 7499107280877730664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_147
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 101
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc36eaf2121dba60800000000000000
+      internalID: 7691323611346779379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_148
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35aa699398af5970800000000000000
+      internalID: 8745894353264354622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_149
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d91c3bb44a9ba0800000000000000
+      internalID: -6081472775852535028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_150
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 17
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cce368fe23db570800000000000000
+      internalID: 8483993277366717457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_151
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48df38745a975d0800000000000000
+      internalID: -3064236344873220946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_152
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75218b6fdc20490800000000000000
+      internalID: -7781430746608937049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidshooting_153
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4bb4969c3f69e80800000000000000
+      internalID: -8172076427436641095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

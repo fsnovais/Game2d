@@ -1,0 +1,952 @@
+fileFormatVersion: 2
+guid: 6bb0a64daf663574f85bbe69e72447e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4345568995663699701
+    second: Lvl 1 bg_0
+  - first:
+      213: -1022471190597054217
+    second: Lvl 1 bg_1
+  - first:
+      213: -2468322140393342603
+    second: Lvl 1 bg_2
+  - first:
+      213: 4563010551478748658
+    second: Lvl 1 bg_3
+  - first:
+      213: -8510528740064216467
+    second: Lvl 1 bg_4
+  - first:
+      213: 8678557222682553232
+    second: Lvl 1 bg_5
+  - first:
+      213: 8277959967098461118
+    second: Lvl 1 bg_6
+  - first:
+      213: -4708469443185174118
+    second: Lvl 1 bg_7
+  - first:
+      213: -5749126737397555410
+    second: Lvl 1 bg_8
+  - first:
+      213: 2385504153948558577
+    second: Lvl 1 bg_9
+  - first:
+      213: 1091829683361298520
+    second: Lvl 1 bg_10
+  - first:
+      213: -1910007849017207405
+    second: Lvl 1 bg_11
+  - first:
+      213: 5010977317776990208
+    second: Lvl 1 bg_12
+  - first:
+      213: 7666592622727193068
+    second: Lvl 1 bg_13
+  - first:
+      213: 3506496559300350167
+    second: Lvl 1 bg_14
+  - first:
+      213: -5234550742564345103
+    second: Lvl 1 bg_15
+  - first:
+      213: 260000300404838247
+    second: Lvl 1 bg_16
+  - first:
+      213: 4379551853620053183
+    second: Lvl 1 bg_17
+  - first:
+      213: 8455756817936354121
+    second: Lvl 1 bg_18
+  - first:
+      213: 872524894830356762
+    second: Lvl 1 bg_19
+  - first:
+      213: 4290314320181527712
+    second: Lvl 1 bg_20
+  - first:
+      213: 2709983098753475980
+    second: Lvl 1 bg_21
+  - first:
+      213: 548051141824836738
+    second: Lvl 1 bg_22
+  - first:
+      213: 1889832812152714855
+    second: Lvl 1 bg_23
+  - first:
+      213: -9197170723704678316
+    second: Lvl 1 bg_24
+  - first:
+      213: -8428382830483115188
+    second: Lvl 1 bg_25
+  - first:
+      213: 5847336010205692108
+    second: Lvl 1 bg_26
+  - first:
+      213: -2525858192397418354
+    second: Lvl 1 bg_27
+  - first:
+      213: -1552508457060384244
+    second: Lvl 1 bg_28
+  - first:
+      213: 9205703606189024669
+    second: Lvl 1 bg_29
+  - first:
+      213: -8106417392706021152
+    second: Lvl 1 bg_30
+  - first:
+      213: -650786730407163225
+    second: Lvl 1 bg_31
+  - first:
+      213: 4879275835086759937
+    second: Lvl 1 bg_32
+  - first:
+      213: -7313239308385309221
+    second: Lvl 1 bg_33
+  - first:
+      213: 6917970445380759382
+    second: Lvl 1 bg_34
+  - first:
+      213: 5666424627877673638
+    second: Lvl 1 bg_35
+  - first:
+      213: 3019922058228561394
+    second: Lvl 1 bg_36
+  - first:
+      213: -8148738156020747767
+    second: Lvl 1 bg_37
+  - first:
+      213: 559371512696302223
+    second: Lvl 1 bg_38
+  - first:
+      213: -6350333453160349175
+    second: Lvl 1 bg_39
+  - first:
+      213: 9159945936989175610
+    second: Lvl 1 bg_40
+  - first:
+      213: -7640941817103217150
+    second: Lvl 1 bg_41
+  - first:
+      213: 7042957764331385033
+    second: Lvl 1 bg_42
+  - first:
+      213: -5499661295077160075
+    second: Lvl 1 bg_43
+  - first:
+      213: 5716185389267015171
+    second: Lvl 1 bg_44
+  - first:
+      213: -9154195685264866312
+    second: Lvl 1 bg_45
+  - first:
+      213: -1782876893706969923
+    second: Lvl 1 bg_46
+  - first:
+      213: 5516463921582652678
+    second: Lvl 1 bg_47
+  - first:
+      213: 6953807427277398509
+    second: Lvl 1 bg_48
+  - first:
+      213: 1765915268259532321
+    second: Lvl 1 bg_49
+  - first:
+      213: 6049632155445266174
+    second: Lvl 1 bg_50
+  - first:
+      213: -7738566893869420229
+    second: Lvl 1 bg_51
+  - first:
+      213: -8399711870904633368
+    second: Lvl 1 bg_52
+  - first:
+      213: -7150070951629650168
+    second: Lvl 1 bg_53
+  - first:
+      213: -2341619348446574109
+    second: Lvl 1 bg_54
+  - first:
+      213: -4316940385191882450
+    second: Lvl 1 bg_55
+  - first:
+      213: 5503839263346278749
+    second: Lvl 1 bg_56
+  - first:
+      213: 2846825339807601329
+    second: Lvl 1 bg_57
+  - first:
+      213: 3425241921271061951
+    second: Lvl 1 bg_58
+  - first:
+      213: -9110633142461437153
+    second: Lvl 1 bg_59
+  - first:
+      213: 7714278952737413279
+    second: Lvl 1 bg_60
+  - first:
+      213: -1989998423447482420
+    second: Lvl 1 bg_61
+  - first:
+      213: 714825754587010804
+    second: Lvl 1 bg_62
+  - first:
+      213: 7426534787128792138
+    second: Lvl 1 bg_63
+  - first:
+      213: 6701882380661046268
+    second: Lvl 1 bg_64
+  - first:
+      213: 4910152819844135121
+    second: Lvl 1 bg_65
+  - first:
+      213: -1041334431317418975
+    second: Lvl 1 bg_66
+  - first:
+      213: -257349014156790403
+    second: Lvl 1 bg_67
+  - first:
+      213: 3679476736053783912
+    second: Lvl 1 bg_68
+  - first:
+      213: -8501027092724988089
+    second: Lvl 1 bg_69
+  - first:
+      213: 3144267941341517632
+    second: Lvl 1 bg_70
+  - first:
+      213: 144286471546589463
+    second: Lvl 1 bg_71
+  - first:
+      213: -7493441668926663019
+    second: Lvl 1 bg_72
+  - first:
+      213: 6283169952453569332
+    second: Lvl 1 bg_73
+  - first:
+      213: 3209087884679521917
+    second: Lvl 1 bg_74
+  - first:
+      213: 8952548104676873542
+    second: Lvl 1 bg_75
+  - first:
+      213: -5901781219256434800
+    second: Lvl 1 bg_76
+  - first:
+      213: 1710894425331137336
+    second: Lvl 1 bg_77
+  - first:
+      213: -2732901350606563288
+    second: Lvl 1 bg_78
+  - first:
+      213: -2643374378518881477
+    second: Lvl 1 bg_79
+  - first:
+      213: -6441753872483711030
+    second: Lvl 1 bg_80
+  - first:
+      213: -567015904292485007
+    second: Lvl 1 bg_81
+  - first:
+      213: 4951320769033589428
+    second: Lvl 1 bg_82
+  - first:
+      213: -1721680221500961135
+    second: Lvl 1 bg_83
+  - first:
+      213: 3170780438135751082
+    second: Lvl 1 bg_84
+  - first:
+      213: 930673109262453896
+    second: Lvl 1 bg_85
+  - first:
+      213: 754144891628343725
+    second: Lvl 1 bg_86
+  - first:
+      213: -6783617035223629018
+    second: Lvl 1 bg_87
+  - first:
+      213: 4818069052230168973
+    second: Lvl 1 bg_88
+  - first:
+      213: -7633714912092827273
+    second: Lvl 1 bg_89
+  - first:
+      213: 8915223696682910167
+    second: Lvl 1 bg_90
+  - first:
+      213: -8759014573359869515
+    second: Lvl 1 bg_91
+  - first:
+      213: -5295121725157897333
+    second: Lvl 1 bg_92
+  - first:
+      213: 2582732411114853125
+    second: Lvl 1 bg_93
+  - first:
+      213: 8096844043098671351
+    second: Lvl 1 bg_94
+  - first:
+      213: -124449620596028275
+    second: Lvl 1 bg_95
+  - first:
+      213: 8904616405063410549
+    second: Lvl 1 bg_96
+  - first:
+      213: -2609716560211920269
+    second: Lvl 1 bg_97
+  - first:
+      213: 3977206223427598821
+    second: Lvl 1 bg_98
+  - first:
+      213: -2159359517139125297
+    second: Lvl 1 bg_99
+  - first:
+      213: -7240742916283407820
+    second: Lvl 1 bg_100
+  - first:
+      213: 6237727354335044360
+    second: Lvl 1 bg_101
+  - first:
+      213: 5485215362679286130
+    second: Lvl 1 bg_102
+  - first:
+      213: -482259638674960139
+    second: Lvl 1 bg_103
+  - first:
+      213: 3412916491398587975
+    second: Lvl 1 bg_104
+  - first:
+      213: -4348252986604847797
+    second: Lvl 1 bg_105
+  - first:
+      213: 1501517021682370836
+    second: Lvl 1 bg_106
+  - first:
+      213: 9138069410907266889
+    second: Lvl 1 bg_107
+  - first:
+      213: -3976916849463656542
+    second: Lvl 1 bg_108
+  - first:
+      213: -9089749298214510476
+    second: Lvl 1 bg_109
+  - first:
+      213: -8593468077542574347
+    second: Lvl 1 bg_110
+  - first:
+      213: -2385553643354231772
+    second: Lvl 1 bg_111
+  - first:
+      213: 5247012161842199503
+    second: Lvl 1 bg_112
+  - first:
+      213: 1281591443538654200
+    second: Lvl 1 bg_113
+  - first:
+      213: 5910833864679613108
+    second: Lvl 1 bg_114
+  - first:
+      213: -4690137964564992065
+    second: Lvl 1 bg_115
+  - first:
+      213: 552263550954470874
+    second: Lvl 1 bg_116
+  - first:
+      213: 8333445428285234871
+    second: Lvl 1 bg_117
+  - first:
+      213: -552706992558562184
+    second: Lvl 1 bg_118
+  - first:
+      213: -2651064321576736198
+    second: Lvl 1 bg_119
+  - first:
+      213: 6244598473277272571
+    second: Lvl 1 bg_120
+  - first:
+      213: 3145075156007767137
+    second: Lvl 1 bg_121
+  - first:
+      213: -6262395545835081817
+    second: Lvl 1 bg_122
+  - first:
+      213: 4168702898670978488
+    second: Lvl 1 bg_123
+  - first:
+      213: -3917891889418506275
+    second: Lvl 1 bg_124
+  - first:
+      213: -2360895785400520404
+    second: Lvl 1 bg_125
+  - first:
+      213: -8627465027819170657
+    second: Lvl 1 bg_126
+  - first:
+      213: -6247037936511254929
+    second: Lvl 1 bg_127
+  - first:
+      213: -5397380725327469135
+    second: Lvl 1 bg_128
+  - first:
+      213: 4591003438077879685
+    second: Lvl 1 bg_129
+  - first:
+      213: 3099204795558895895
+    second: Lvl 1 bg_130
+  - first:
+      213: -3218174075838476834
+    second: Lvl 1 bg_131
+  - first:
+      213: 6513263998240793089
+    second: Lvl 1 bg_132
+  - first:
+      213: 1380419344017310383
+    second: Lvl 1 bg_133
+  - first:
+      213: -8581386568957615518
+    second: Lvl 1 bg_134
+  - first:
+      213: 3568801872028111413
+    second: Lvl 1 bg_135
+  - first:
+      213: 6176841563450599828
+    second: Lvl 1 bg_136
+  - first:
+      213: -5114307873333709434
+    second: Lvl 1 bg_137
+  - first:
+      213: 5310397916529781884
+    second: Lvl 1 bg_138
+  - first:
+      213: -7832461073254084125
+    second: Lvl 1 bg_139
+  - first:
+      213: 1944737465033403122
+    second: Lvl 1 bg_140
+  - first:
+      213: 6884456330826011053
+    second: Lvl 1 bg_141
+  - first:
+      213: -6817765921987019634
+    second: Lvl 1 bg_142
+  - first:
+      213: -4977731101253944897
+    second: Lvl 1 bg_143
+  - first:
+      213: 8808679401638059673
+    second: Lvl 1 bg_144
+  - first:
+      213: 6575484826528341582
+    second: Lvl 1 bg_145
+  - first:
+      213: 6921516381967469588
+    second: Lvl 1 bg_146
+  - first:
+      213: -6491226468505486467
+    second: Lvl 1 bg_147
+  - first:
+      213: 3876642618092180008
+    second: Lvl 1 bg_148
+  - first:
+      213: 1825946197688918302
+    second: Lvl 1 bg_149
+  - first:
+      213: 2272015217799468190
+    second: Lvl 1 bg_150
+  - first:
+      213: 4304751289150995231
+    second: Lvl 1 bg_151
+  - first:
+      213: -1065986366500966382
+    second: Lvl 1 bg_152
+  - first:
+      213: 5510093776756459955
+    second: Lvl 1 bg_153
+  - first:
+      213: -6811596804030412784
+    second: Lvl 1 bg_154
+  - first:
+      213: 2246740782077362574
+    second: Lvl 1 bg_155
+  - first:
+      213: -1955855395768635221
+    second: Lvl 1 bg_156
+  - first:
+      213: -4873440848300727347
+    second: Lvl 1 bg_157
+  - first:
+      213: 4636488707653908626
+    second: Lvl 1 bg_158
+  - first:
+      213: -1278833518387591051
+    second: Lvl 1 bg_159
+  - first:
+      213: -8976181298258233916
+    second: Lvl 1 bg_160
+  - first:
+      213: 3866512918072445825
+    second: Lvl 1 bg_161
+  - first:
+      213: 3638910148724058170
+    second: Lvl 1 bg_162
+  - first:
+      213: -1604077075317066171
+    second: Lvl 1 bg_163
+  - first:
+      213: -8422732628833679827
+    second: Lvl 1 bg_164
+  - first:
+      213: 5373476657184507193
+    second: Lvl 1 bg_165
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lvl 1 bg_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01a382b50071b3c0800000000000000
+      internalID: -4345568995663699701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 303
+        width: 256
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f054639ed37fc1f0800000000000000
+      internalID: -1022471190597054217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 437
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5797f9e4712cebdd0800000000000000
+      internalID: -2468322140393342603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 437
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50043bbe1135f30800000000000000
+      internalID: 4563010551478748658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 334
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a38bd933784e980800000000000000
+      internalID: -8510528740064216467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 334
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be4e420dd607870800000000000000
+      internalID: 8678557222682553232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 294
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbdec74bb831e270800000000000000
+      internalID: 8277959967098461118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 251
+        width: 256
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999a2becf728aeb0800000000000000
+      internalID: -4708469443185174118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd7b841bff630b0800000000000000
+      internalID: -5749126737397555410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204
+        width: 256
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4925a93630b1120800000000000000
+      internalID: 2385504153948558577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 256
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583affef45f62f00800000000000000
+      internalID: 1091829683361298520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 172
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951f112bf94e75e0800000000000000
+      internalID: -1910007849017207405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 53
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00023ab32519a8540800000000000000
+      internalID: 5010977317776990208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 53
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e84bfe55356a60800000000000000
+      internalID: 7666592622727193068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 14
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01a3fda0499a030800000000000000
+      internalID: 3506496559300350167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lvl 1 bg_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 14
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae1be55d32b57b0800000000000000
+      internalID: -5234550742564345103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

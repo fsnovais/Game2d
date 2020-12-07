@@ -1,0 +1,4219 @@
+fileFormatVersion: 2
+guid: 967ae223d8316084090dbfef56d7bc67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6012338039475284697
+    second: samus_0
+  - first:
+      213: 7916398434654269589
+    second: samus_1
+  - first:
+      213: -5363131308429247879
+    second: samus_2
+  - first:
+      213: -6722193499781390151
+    second: samus_3
+  - first:
+      213: 5025782233162439908
+    second: samus_4
+  - first:
+      213: -6209777474197876057
+    second: samus_5
+  - first:
+      213: -210678763174979613
+    second: samus_6
+  - first:
+      213: -3714375456651641159
+    second: samus_7
+  - first:
+      213: -3788112580544351274
+    second: samus_8
+  - first:
+      213: -3336842295108310631
+    second: samus_9
+  - first:
+      213: -4141908330581337178
+    second: samus_10
+  - first:
+      213: 4934440448510488603
+    second: samus_11
+  - first:
+      213: 994843941905620740
+    second: samus_12
+  - first:
+      213: 7312417441390835102
+    second: samus_13
+  - first:
+      213: -2109840535470043342
+    second: samus_14
+  - first:
+      213: 4963079762741854568
+    second: samus_15
+  - first:
+      213: 5124573535608576525
+    second: samus_16
+  - first:
+      213: 6109896596004802156
+    second: samus_17
+  - first:
+      213: 8429464627649094388
+    second: samus_18
+  - first:
+      213: 5092132762299208052
+    second: samus_19
+  - first:
+      213: 4703108568568689235
+    second: samus_20
+  - first:
+      213: 8715705265689824602
+    second: samus_21
+  - first:
+      213: -5820500985963097086
+    second: samus_22
+  - first:
+      213: 1073587077067759799
+    second: samus_23
+  - first:
+      213: 7397419526793948467
+    second: samus_24
+  - first:
+      213: -5861585628702269954
+    second: samus_25
+  - first:
+      213: 3734544288740613354
+    second: samus_26
+  - first:
+      213: -9174926553211189060
+    second: samus_27
+  - first:
+      213: -6953203140766242398
+    second: samus_28
+  - first:
+      213: -7956439791849136289
+    second: samus_29
+  - first:
+      213: -6935185192142374926
+    second: samus_30
+  - first:
+      213: -4649838910105345333
+    second: samus_31
+  - first:
+      213: 2424834820551083281
+    second: samus_32
+  - first:
+      213: 7895185926635224666
+    second: samus_33
+  - first:
+      213: 453278474612303558
+    second: samus_34
+  - first:
+      213: -8953881155841504697
+    second: samus_35
+  - first:
+      213: -8881749981582118536
+    second: samus_36
+  - first:
+      213: 4575533226360020804
+    second: samus_37
+  - first:
+      213: 9095728468505513400
+    second: samus_38
+  - first:
+      213: -7296914226163249586
+    second: samus_39
+  - first:
+      213: 3077994108363358252
+    second: samus_40
+  - first:
+      213: 6926643347219508243
+    second: samus_41
+  - first:
+      213: 4400512110019031339
+    second: samus_42
+  - first:
+      213: -8783659136008602525
+    second: samus_43
+  - first:
+      213: -8772820188390947509
+    second: samus_44
+  - first:
+      213: 4190232285780424937
+    second: samus_45
+  - first:
+      213: 7460149131307271539
+    second: samus_46
+  - first:
+      213: -8205651062681274140
+    second: samus_47
+  - first:
+      213: 6549204906245326203
+    second: samus_48
+  - first:
+      213: 245294245700906102
+    second: samus_49
+  - first:
+      213: 1006704880648813459
+    second: samus_50
+  - first:
+      213: -7838128713282467287
+    second: samus_51
+  - first:
+      213: -5035432568600119343
+    second: samus_52
+  - first:
+      213: -6495998078257951035
+    second: samus_53
+  - first:
+      213: 6493825830385734638
+    second: samus_54
+  - first:
+      213: 1746158234359106932
+    second: samus_55
+  - first:
+      213: -7927659340936087166
+    second: samus_56
+  - first:
+      213: 5915548150257557807
+    second: samus_57
+  - first:
+      213: 786301082338499406
+    second: samus_58
+  - first:
+      213: -5800834927763912686
+    second: samus_59
+  - first:
+      213: 7386274031737941134
+    second: samus_60
+  - first:
+      213: -1529619441274340754
+    second: samus_61
+  - first:
+      213: -3337140338495122323
+    second: samus_62
+  - first:
+      213: -7747760289946338555
+    second: samus_63
+  - first:
+      213: 7765761311053292217
+    second: samus_64
+  - first:
+      213: 9118062103425087190
+    second: samus_65
+  - first:
+      213: -4380070431154335656
+    second: samus_66
+  - first:
+      213: -3159270952515191091
+    second: samus_67
+  - first:
+      213: 2611849390152799536
+    second: samus_68
+  - first:
+      213: 928990401983910066
+    second: samus_69
+  - first:
+      213: 5825740970332344366
+    second: samus_70
+  - first:
+      213: -3849275335850821417
+    second: samus_71
+  - first:
+      213: -419642089008171948
+    second: samus_72
+  - first:
+      213: -6257415290502741476
+    second: samus_73
+  - first:
+      213: -5887278945859509111
+    second: samus_74
+  - first:
+      213: -300961687896803911
+    second: samus_75
+  - first:
+      213: -6200158333107452355
+    second: samus_76
+  - first:
+      213: 3731976200820454857
+    second: samus_77
+  - first:
+      213: 1388063024655286754
+    second: samus_78
+  - first:
+      213: -9008849010124418743
+    second: samus_79
+  - first:
+      213: -8228264720553421841
+    second: samus_80
+  - first:
+      213: 7399205543603556796
+    second: samus_81
+  - first:
+      213: -5149681438639513358
+    second: samus_82
+  - first:
+      213: -8123947895683120293
+    second: samus_83
+  - first:
+      213: -5098303201789249422
+    second: samus_84
+  - first:
+      213: 4764188508001204987
+    second: samus_85
+  - first:
+      213: -1109851219758135122
+    second: samus_86
+  - first:
+      213: 3670374452147237804
+    second: samus_87
+  - first:
+      213: -5108567294947176805
+    second: samus_88
+  - first:
+      213: -4968209734463695084
+    second: samus_89
+  - first:
+      213: 7767297382746086271
+    second: samus_90
+  - first:
+      213: 5701902630937923621
+    second: samus_91
+  - first:
+      213: 6940985359606856589
+    second: samus_92
+  - first:
+      213: 3961176053777702662
+    second: samus_93
+  - first:
+      213: -5856375675956880228
+    second: samus_94
+  - first:
+      213: -3311847662094422003
+    second: samus_95
+  - first:
+      213: 3322134995567222860
+    second: samus_96
+  - first:
+      213: -7558765983197724662
+    second: samus_97
+  - first:
+      213: -6844942803127354462
+    second: samus_98
+  - first:
+      213: -1458215163765869943
+    second: samus_99
+  - first:
+      213: 4524640771275599435
+    second: samus_100
+  - first:
+      213: 2963292035521755656
+    second: samus_101
+  - first:
+      213: 972218595477782472
+    second: samus_102
+  - first:
+      213: 2482075265115373571
+    second: samus_103
+  - first:
+      213: 8531997466829103532
+    second: samus_104
+  - first:
+      213: -3181207537926684890
+    second: samus_105
+  - first:
+      213: 9178837562039993767
+    second: samus_106
+  - first:
+      213: -4623957703718518137
+    second: samus_107
+  - first:
+      213: 7808241677680630166
+    second: samus_108
+  - first:
+      213: -5424047504216168064
+    second: samus_109
+  - first:
+      213: -3691242060829524554
+    second: samus_110
+  - first:
+      213: 4739991226727352578
+    second: samus_111
+  - first:
+      213: 1248214348511422834
+    second: samus_112
+  - first:
+      213: 7362616318611577211
+    second: samus_113
+  - first:
+      213: -1570254426159014494
+    second: samus_114
+  - first:
+      213: 7657506273594422830
+    second: samus_115
+  - first:
+      213: -1813390499407198949
+    second: samus_116
+  - first:
+      213: -1088230723374290979
+    second: samus_117
+  - first:
+      213: 8707087882911027955
+    second: samus_118
+  - first:
+      213: 2985844139536552401
+    second: samus_119
+  - first:
+      213: -3496949946363183356
+    second: samus_120
+  - first:
+      213: -7044301241278555951
+    second: samus_121
+  - first:
+      213: -1865023801356304305
+    second: samus_122
+  - first:
+      213: -2856258088905569611
+    second: samus_123
+  - first:
+      213: -7882065716140146056
+    second: samus_124
+  - first:
+      213: -2457942818860744237
+    second: samus_125
+  - first:
+      213: 1297472856779903454
+    second: samus_126
+  - first:
+      213: -1632869007068413777
+    second: samus_127
+  - first:
+      213: -2902069434322905244
+    second: samus_128
+  - first:
+      213: 9206745449775151830
+    second: samus_129
+  - first:
+      213: 4502764232225322150
+    second: samus_130
+  - first:
+      213: -5387491568711382235
+    second: samus_131
+  - first:
+      213: 6818567146040720198
+    second: samus_132
+  - first:
+      213: 3061315071615982605
+    second: samus_133
+  - first:
+      213: -2992184278993834204
+    second: samus_134
+  - first:
+      213: -7160675180068013484
+    second: samus_135
+  - first:
+      213: -2841290669878355503
+    second: samus_136
+  - first:
+      213: -4328747278015027849
+    second: samus_137
+  - first:
+      213: 1776873964620091839
+    second: samus_138
+  - first:
+      213: 7652174367179312028
+    second: samus_139
+  - first:
+      213: -1092232229521308166
+    second: samus_140
+  - first:
+      213: 4958320301110680394
+    second: samus_141
+  - first:
+      213: -1200776323219307531
+    second: samus_142
+  - first:
+      213: -246578993979101380
+    second: samus_143
+  - first:
+      213: -6081949738970497901
+    second: samus_144
+  - first:
+      213: 2756459724723175298
+    second: samus_145
+  - first:
+      213: -2804780803857468391
+    second: samus_146
+  - first:
+      213: 5528614590514393342
+    second: samus_147
+  - first:
+      213: 2492761133680055661
+    second: samus_148
+  - first:
+      213: 5537836890503446111
+    second: samus_149
+  - first:
+      213: 7768089778356691200
+    second: samus_150
+  - first:
+      213: 699772787160889377
+    second: samus_151
+  - first:
+      213: 3264678258684944901
+    second: samus_152
+  - first:
+      213: 4879202997122230665
+    second: samus_153
+  - first:
+      213: 3165836067472853513
+    second: samus_154
+  - first:
+      213: 8732828767339968866
+    second: samus_155
+  - first:
+      213: 4703752833732478358
+    second: samus_156
+  - first:
+      213: -6412030976974435546
+    second: samus_157
+  - first:
+      213: 4089490957634954308
+    second: samus_158
+  - first:
+      213: 3421692125819374126
+    second: samus_159
+  - first:
+      213: 800556099483012290
+    second: samus_160
+  - first:
+      213: 2918935043315497174
+    second: samus_161
+  - first:
+      213: 4872401319500177026
+    second: samus_162
+  - first:
+      213: 7088370006312257852
+    second: samus_163
+  - first:
+      213: -5356943252695322947
+    second: samus_164
+  - first:
+      213: 8446340476787941120
+    second: samus_165
+  - first:
+      213: -1615896175779122961
+    second: samus_166
+  - first:
+      213: 8891851332690020334
+    second: samus_167
+  - first:
+      213: 2963913947953638029
+    second: samus_168
+  - first:
+      213: -5405911164040957237
+    second: samus_169
+  - first:
+      213: 3492012681203254272
+    second: samus_170
+  - first:
+      213: -3217248193433049561
+    second: samus_171
+  - first:
+      213: 8417493752489408530
+    second: samus_172
+  - first:
+      213: -470561440971086731
+    second: samus_173
+  - first:
+      213: -6942900339929540249
+    second: samus_174
+  - first:
+      213: 1161236056841939206
+    second: samus_175
+  - first:
+      213: -7138221290910436156
+    second: samus_176
+  - first:
+      213: 3761683014343314994
+    second: samus_177
+  - first:
+      213: -3190853469862881061
+    second: samus_178
+  - first:
+      213: 2659690909478401129
+    second: samus_179
+  - first:
+      213: -5737889118812342792
+    second: samus_180
+  - first:
+      213: -7117612838683948206
+    second: samus_181
+  - first:
+      213: 4640588164509244255
+    second: samus_182
+  - first:
+      213: 5296474151003527416
+    second: samus_183
+  - first:
+      213: 7373663993819044802
+    second: samus_184
+  - first:
+      213: 6394158074201168253
+    second: samus_185
+  - first:
+      213: -3501771784763675433
+    second: samus_186
+  - first:
+      213: -4815235746230364711
+    second: samus_187
+  - first:
+      213: -3964139896908457486
+    second: samus_188
+  - first:
+      213: -3142728063738275339
+    second: samus_189
+  - first:
+      213: 6986003837223197168
+    second: samus_190
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samus_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2563
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2e78979d107350800000000000000
+      internalID: 6012338039475284697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2563
+        width: 23
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b606fe62bcdd60800000000000000
+      internalID: 7916398434654269589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2563
+        width: 23
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7c457d745295b0800000000000000
+      internalID: -5363131308429247879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2565
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0271ea0a8f5b2a0800000000000000
+      internalID: -6722193499781390151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2549
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecdd16305a2fb540800000000000000
+      internalID: 5025782233162439908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2519
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2963cb94072d9a0800000000000000
+      internalID: -6209777474197876057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2519
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79c37f7c4831df0800000000000000
+      internalID: -210678763174979613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2515
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be79d7a333e37cc0800000000000000
+      internalID: -3714375456651641159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2515
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33773adabed6bc0800000000000000
+      internalID: -3788112580544351274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2478
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e198ac9721b1d0800000000000000
+      internalID: -3336842295108310631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2469
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd77f615cf486c0800000000000000
+      internalID: -4141908330581337178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2469
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1079c2b177aa7440800000000000000
+      internalID: 4934440448510488603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2469
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdb345b456ecd00800000000000000
+      internalID: 994843941905620740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2469
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b87b8becea7560800000000000000
+      internalID: 7312417441390835102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2416
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f869e163758b2e0800000000000000
+      internalID: -2109840535470043342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2415
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861882aafb660e440800000000000000
+      internalID: 4963079762741854568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2415
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a115fba742e1740800000000000000
+      internalID: 5124573535608576525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2418
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0c3b1596bac450800000000000000
+      internalID: 6109896596004802156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2366
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2aeb9ea697bf470800000000000000
+      internalID: 8429464627649094388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2367
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47119fd94c3eaa640800000000000000
+      internalID: 5092132762299208052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2367
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f1a1335cc44140800000000000000
+      internalID: 4703108568568689235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2364
+        width: 23
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8178e2c764f870800000000000000
+      internalID: 8715705265689824602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2316
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204dbdc013d693fa0800000000000000
+      internalID: -5820500985963097086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2314
+        width: 21
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e21c22c526ee00800000000000000
+      internalID: 1073587077067759799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2313
+        width: 21
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d671dcdd9e8a660800000000000000
+      internalID: 7397419526793948467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2313
+        width: 17
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9aac3de677aea0800000000000000
+      internalID: -5861585628702269954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2257
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec19508e34c3d330800000000000000
+      internalID: 3734544288740613354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2257
+        width: 26
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb84c8329ec1ca080800000000000000
+      internalID: -9174926553211189060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2257
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96f774592418f90800000000000000
+      internalID: -6953203140766242398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2254
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9c021a2c059190800000000000000
+      internalID: -7956439791849136289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2208
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7fdcadfc541cf90800000000000000
+      internalID: -6935185192142374926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2207
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a16ca524787fb0800000000000000
+      internalID: -4649838910105345333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2162
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11502f50c6eb6a120800000000000000
+      internalID: 2424834820551083281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2162
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e71c015c5519d60800000000000000
+      internalID: 7895185926635224666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2162
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e89ffe5e5a4600800000000000000
+      internalID: 453278474612303558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2157
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ac009478c6db380800000000000000
+      internalID: -8953881155841504697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2109
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87137f3037fadb480800000000000000
+      internalID: -8881749981582118536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2110
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9f272a3f8f7f30800000000000000
+      internalID: 4575533226360020804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2110
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdcda2d9d48a3e70800000000000000
+      internalID: 9095728468505513400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2056
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e8b090c272cba90800000000000000
+      internalID: -7296914226163249586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2062
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204eb9655b37ba20800000000000000
+      internalID: 3077994108363358252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2007
+        width: 28
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c67d4ec61602060800000000000000
+      internalID: 6926643347219508243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2009
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b213d7bf272c11d30800000000000000
+      internalID: 4400512110019031339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2007
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb71abd8c2a1680800000000000000
+      internalID: -8783659136008602525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2004
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450590e48ea04680800000000000000
+      internalID: -8772820188390947509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1958
+        width: 26
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b0582012b62a30800000000000000
+      internalID: 4190232285780424937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1960
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375420ffb16c78760800000000000000
+      internalID: 7460149131307271539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1960
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8731a75dbaf1e80800000000000000
+      internalID: -8205651062681274140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1957
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758ffdb92373ea50800000000000000
+      internalID: 6549204906245326203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1902
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c237c11d5776300800000000000000
+      internalID: 245294245700906102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1902
+        width: 26
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b79b451c888fd00800000000000000
+      internalID: 1006704880648813459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_51
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1902
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4205a67f593390800000000000000
+      internalID: -7838128713282467287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1899
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7382af1cc8e1ab0800000000000000
+      internalID: -5035432568600119343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1852
+        width: 25
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce80d34a2499d5a0800000000000000
+      internalID: -6495998078257951035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1807
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3d56ddf24be1a50800000000000000
+      internalID: 6493825830385734638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1807
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0990a9a99b3810800000000000000
+      internalID: 1746158234359106932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_56
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1807
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289723bf4db4bf190800000000000000
+      internalID: -7927659340936087166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1800
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2122d363bf381250800000000000000
+      internalID: 5915548150257557807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_58
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1756
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9a4b1ba089ea00800000000000000
+      internalID: 786301082338499406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_59
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1754
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21804f90e5b4f7fa0800000000000000
+      internalID: -5800834927763912686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_60
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1701
+        width: 24
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cae630911518660800000000000000
+      internalID: 7386274031737941134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1706
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6abf41f833b5cae0800000000000000
+      internalID: -1529619441274340754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1650
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641f560b8810b1d0800000000000000
+      internalID: -3337140338495122323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1654
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bfed0d01d6a7490800000000000000
+      internalID: -7747760289946338555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1651
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2adc384c685cb60800000000000000
+      internalID: 7765761311053292217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1648
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67a9a6c2dd98e70800000000000000
+      internalID: 9118062103425087190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1603
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509ad3462dd633c0800000000000000
+      internalID: -4380070431154335656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_67
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1605
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce3f16aec30824d0800000000000000
+      internalID: -3159270952515191091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1604
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d0e2ae272f3420800000000000000
+      internalID: 2611849390152799536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1603
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09ffd39df64ec00800000000000000
+      internalID: 928990401983910066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1554
+        width: 20
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205912eb8039d050800000000000000
+      internalID: 5825740970332344366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1554
+        width: 25
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d870f3f970a49ac0800000000000000
+      internalID: -3849275335850821417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1554
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547ddf4eb12d2af0800000000000000
+      internalID: -419642089008171948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_73
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1554
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c128c7d42f13929a0800000000000000
+      internalID: -6257415290502741476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1504
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984686aadfe2c4ea0800000000000000
+      internalID: -5887278945859509111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1504
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b8ed70f4c2dbf0800000000000000
+      internalID: -300961687896803911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_76
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1504
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c3fb88dc94f9a0800000000000000
+      internalID: -6200158333107452355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1504
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57d10f494aac330800000000000000
+      internalID: 3731976200820454857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_78
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1455
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1ce6677f3634310800000000000000
+      internalID: 1388063024655286754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1455
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94197646e832af280800000000000000
+      internalID: -9008849010124418743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1401
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d885f4d45fcd80800000000000000
+      internalID: -8228264720553421841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1401
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1579e3d324fa660800000000000000
+      internalID: 7399205543603556796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1401
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f028770408a888b0800000000000000
+      internalID: -5149681438639513358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_83
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1401
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5386007e60f14f80800000000000000
+      internalID: -8123947895683120293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_84
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1351
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787d1cff303f39b0800000000000000
+      internalID: -5098303201789249422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1351
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf86ec43ccd1240800000000000000
+      internalID: 4764188508001204987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1351
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea848c422340990f0800000000000000
+      internalID: -1109851219758135122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1351
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b7e42e1acfe230800000000000000
+      internalID: 3670374452147237804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1302
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ece719c19ba19b0800000000000000
+      internalID: -5108567294947176805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1302
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41757a7b19f5d0bb0800000000000000
+      internalID: -4968209734463695084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1255
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd66311dbfacb60800000000000000
+      internalID: 7767297382746086271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1255
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5209bec9b3a312f40800000000000000
+      internalID: 5701902630937923621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_92
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1255
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bbd8ed865535060800000000000000
+      internalID: 6940985359606856589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_93
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1253
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f143a32ace8f630800000000000000
+      internalID: 3961176053777702662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_94
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1204
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1a53e959f9bea0800000000000000
+      internalID: -5856375675956880228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_95
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1204
+        width: 41
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0077a62914f902d0800000000000000
+      internalID: -3311847662094422003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_96
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1204
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ada25d289a1e20800000000000000
+      internalID: 3322134995567222860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_97
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1204
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008137e26ed91790800000000000000
+      internalID: -7558765983197724662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_98
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1154
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab3abf59c0e101a0800000000000000
+      internalID: -6844942803127354462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1154
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b5a5d80163cbe0800000000000000
+      internalID: -1458215163765869943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1104
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ea1241fc0cace30800000000000000
+      internalID: 4524640771275599435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1104
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab407f76abf1920800000000000000
+      internalID: 2963292035521755656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_102
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1104
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7b7b59a30e7d00800000000000000
+      internalID: 972218595477782472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_103
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1104
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3004cf29d4a127220800000000000000
+      internalID: 2482075265115373571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1054
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a1eadd7eb76670800000000000000
+      internalID: 8531997466829103532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1054
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fb51959941ad3d0800000000000000
+      internalID: -3181207537926684890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1054
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a508609128c16f70800000000000000
+      internalID: 9178837562039993767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_107
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1054
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824d6d97f664dfb0800000000000000
+      internalID: -4623957703718518137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1005
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699dd8e9f627c5c60800000000000000
+      internalID: 7808241677680630166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_109
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1005
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089e9526889e9b4b0800000000000000
+      internalID: -5424047504216168064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_110
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1012
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd764817e216ccc0800000000000000
+      internalID: -3691242060829524554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1015
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094d8b38e4d7c140800000000000000
+      internalID: 4739991226727352578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_112
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 968
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a19e265c825110800000000000000
+      internalID: 1248214348511422834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_113
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 968
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79565078844d2660800000000000000
+      internalID: 7362616318611577211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_114
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 968
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9ec14be5553ae0800000000000000
+      internalID: -1570254426159014494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_115
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 968
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26bbe6726de44a60800000000000000
+      internalID: 7657506273594422830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 917
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1504c3d2fa85d6e0800000000000000
+      internalID: -1813390499407198949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 917
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7eb9b3ce3d5e0f0800000000000000
+      internalID: -1088230723374290979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_118
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 917
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f215012c4ac5d870800000000000000
+      internalID: 8707087882911027955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_119
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 917
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d112cbdc69df6920800000000000000
+      internalID: 2985844139536552401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_120
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 867
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f73b92d86587fc0800000000000000
+      internalID: -3496949946363183356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_121
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 863
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d89fb6e75d9d3e90800000000000000
+      internalID: -7044301241278555951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_122
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 861
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f404286ebba1e16e0800000000000000
+      internalID: -1865023801356304305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_123
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 861
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba82f7b6688c58d0800000000000000
+      internalID: -2856258088905569611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 817
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8728e2dfdf64d9290800000000000000
+      internalID: -7882065716140146056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_125
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 813
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1459b6702a3edd0800000000000000
+      internalID: -2457942818860744237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_126
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 810
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d31e50bc810210800000000000000
+      internalID: 1297472856779903454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_127
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 811
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa041f41a42e659e0800000000000000
+      internalID: -1632869007068413777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 759
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671aada937c9b7d0800000000000000
+      internalID: -2902069434322905244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_129
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 759
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daba47053ee4cf70800000000000000
+      internalID: 9206745449775151830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_130
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 759
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ff1966380d7e30800000000000000
+      internalID: 4502764232225322150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 759
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bcb8066f8cb35b0800000000000000
+      internalID: -5387491568711382235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_132
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 710
+        width: 54
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bf7e861ba60ae50800000000000000
+      internalID: 6818567146040720198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_133
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 711
+        width: 63
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c583d86d9fb7a20800000000000000
+      internalID: 3061315071615982605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 706
+        width: 56
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f60146040a976d0800000000000000
+      internalID: -2992184278993834204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_135
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 641
+        width: 46
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45af614dcdb20ac90800000000000000
+      internalID: -7160675180068013484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 636
+        width: 25
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d4468035b198d0800000000000000
+      internalID: -2841290669878355503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_137
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 671
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775a97b09433de3c0800000000000000
+      internalID: -4328747278015027849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_138
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 671
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb112dfd479b8a810800000000000000
+      internalID: 1776873964620091839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_139
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 651
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b82134b0cf13a60800000000000000
+      internalID: 7652174367179312028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_140
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 651
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5462bf29c97d0f0800000000000000
+      internalID: -1092232229521308166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_141
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 569
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5f462b0e7fc440800000000000000
+      internalID: 4958320301110680394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_142
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 569
+        width: 21
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f340d7cb4cf55fe0800000000000000
+      internalID: -1200776323219307531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 566
+        width: 21
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6dce16b9f39cf0800000000000000
+      internalID: -246578993979101380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_144
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 569
+        width: 23
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c32ea9fe2989ba0800000000000000
+      internalID: -6081949738970497901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_145
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 504
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fbbc9e389e04620800000000000000
+      internalID: 2756459724723175298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_146
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 513
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914bd3128ba6319d0800000000000000
+      internalID: -2804780803857468391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 513
+        width: 59
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f6af9da599bc40800000000000000
+      internalID: 5528614590514393342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_148
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 458
+        width: 57
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6556ea3b01189220800000000000000
+      internalID: 2492761133680055661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_149
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 462
+        width: 64
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef28aaf495adc40800000000000000
+      internalID: 5537836890503446111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 405
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0012b4e0f7ccdcb60800000000000000
+      internalID: 7768089778356691200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 403
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b53274a716b900800000000000000
+      internalID: 699772787160889377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_152
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 402
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026bda44977e4d20800000000000000
+      internalID: 3264678258684944901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_153
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 41
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ed76564966b340800000000000000
+      internalID: 4879202997122230665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 315
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3986c607f2fe5260800000000000000
+      internalID: 7088370006312257852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_165
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 308
+        width: 62
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd2fab9ed673570800000000000000
+      internalID: 8446340476787941120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_171
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 317
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e72450d90a53d0800000000000000
+      internalID: -3217248193433049561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_180
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 252
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57c904f3cee50b0800000000000000
+      internalID: -5737889118812342792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_181
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 22
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bcb7d75d8293d90800000000000000
+      internalID: -7117612838683948206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_182
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 167
+        width: 19
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9476495ea66040800000000000000
+      internalID: 4640588164509244255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_183
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 153
+        width: 20
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89a9cad2bd08940800000000000000
+      internalID: 5296474151003527416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_184
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 88
+        width: 24
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1ca4c554845660800000000000000
+      internalID: 7373663993819044802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 26
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d47a04ec9cb850800000000000000
+      internalID: 6394158074201168253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_186
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 84
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcecac6d15376fc0800000000000000
+      internalID: -3501771784763675433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_188
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f951d444cb8cf8c0800000000000000
+      internalID: -3964139896908457486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_189
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 25
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99a371a79c264d0800000000000000
+      internalID: -3142728063738275339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_190
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2204
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.50000036, y: -0.0035756428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9543df97543f060800000000000000
+      internalID: 6986003837223197168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_154
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1846
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac6da412f4feb20800000000000000
+      internalID: 3165836067472853513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
